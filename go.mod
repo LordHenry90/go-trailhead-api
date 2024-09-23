@@ -1,4 +1,4 @@
-module github.com/LordHenr90/go-trailhead-api
+module github.com/meruff/go-trailhead-leaderboard-api
 
 go 1.18
 
