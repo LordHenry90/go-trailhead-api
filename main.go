@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/meruff/go-trailhead-leaderboard-api/trailhead"
+	"github.com/LordHenry90/go-trailhead-api/trailhead"
 )
 
 const (
